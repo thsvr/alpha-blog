@@ -13,12 +13,12 @@ gem 'puma', '~> 4.1'
 gem 'sass-rails', '>= 6'
 gem 'hirb'
 gem 'bootstrap-will_paginate', '1.0.0'
-gem 'bootstrap-sass', '3.4.1'
-gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'bootstrap-sass'
+gem 'jquery-rails'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '4.0.7'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
-gem 'turbolinks', '~> 5'
+gem 'turbolinks', '5.2.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
